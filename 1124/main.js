@@ -5,3 +5,5 @@ let book = [];
 const bookk = apple.map((items) => items);
 
 console.log(bookk);
+
+123;
